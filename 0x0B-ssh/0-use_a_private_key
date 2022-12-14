@@ -2,4 +2,4 @@
 # connecting to my server
 
 
-ssh -i ~/.ssh/holberton ubuntu@ 
+ssh -i ~/.ssh/school  ubuntu@ 
